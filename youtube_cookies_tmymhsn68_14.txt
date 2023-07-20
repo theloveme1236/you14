@@ -1,0 +1,9 @@
+.youtube.com	True	/	True	1689820872	YTSESSION-98epo9	ADayArP4YYPXCT+FgPdzz04n5KeFgjjzi61xQcT8CxfxE4VZPGRXYNxMoiGwzUZKD22mz+d39N7yvFkdsCfU0YtNnCfcasy1J/KxFgt4qiYX
+.youtube.com	True	/	True	1724380752	LOGIN_INFO	AFmmF2swRQIhALjKV2oOyCEbIznBJ9sgeHNl_qnMMWz3CLMawjEd1F56AiBnCR_uagtpIAaGzDvajIco1imefor0JYRiUxNzP0BwbQ:QUQ3MjNmeTlHcXVLSV81Mlk4M01QaGlmb0s5MWNoaWtyUjcxNm1tYjl5UVp3a3R2MHcxMXVRX1A3eF9FZlp3ZDVYY2FkWkF3OVF5N2hCc0g0NlhkLXAxeTl1S2lhdGhnbV94ZWpuNi1TTzlFcXJhckFRdlNyelBYQ0xMb3JMSXJ4eElFUllBQlVPdV96V3pBOS0xZjIyUUFDMm9GVkhaUWJn
+.youtube.com	True	/	True	1721356788	__Secure-3PSIDCC	APoG2W-ngVB-ak6UZi8c6PFbTN_KCjuMKKUzg3W6fZXvpUkIlv73uBXiQv8F48eOp7Qrxwj7dQ
+.youtube.com	True	/	True	1724380765	PREF	tz=Etc.GMT%2B8
+.youtube.com	True	/	True	1724380750	__Secure-3PAPISID	B_S-cyJtiPCHKMLf/AMoFQB6dkWIJlKJQ4
+.youtube.com	True	/	True	1689822547	GPS	1
+.youtube.com	True	/	True	1705372747	VISITOR_INFO1_LIVE	e3wYzAQ2laI
+.youtube.com	True	/	True	0	YSC	gd3nQtELeDQ
+.youtube.com	True	/	True	1724380750	__Secure-3PSID	Ywi3kn3UWpJquT9f8a0AupquxciRBVpAwPJ8VBkeuuigp9ToxX7g5ieumnosyylz8wS8FA.
